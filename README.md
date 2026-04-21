@@ -112,14 +112,3 @@ cd CommuteSync-iOS
 Give it a ⭐ — it helps!
 
 ---
-
-## 💡 Final Impression
-
-This project demonstrates:
-
-* Real-world product thinking
-* Strong iOS architecture knowledge
-* Clean and scalable code practices
-* Practical problem-solving skills
-
----
